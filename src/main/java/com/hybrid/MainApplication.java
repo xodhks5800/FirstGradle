@@ -6,6 +6,8 @@ public class MainApplication {
 
       System.out.println("Hello FirstGradle1");
       System.out.println("Hello FirstGradle2");
+      System.out.println("Hello FirstGradle2");	
+
    }
 
 }
